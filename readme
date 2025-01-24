@@ -1,0 +1,7 @@
+The **Morse Code Project** is a web application built using **Flask** that allows users to encode text into Morse code and decode Morse code back into text. It provides an interactive web interface that makes it easy to use and offers a simple yet effective way to perform Morse code encoding and decoding operations.
+
+### Features:
+- **Text to Morse Code Encoding**: Convert text into Morse code.
+- **Morse Code to Text Decoding**: Convert Morse code back into text.
+- **Interactive Web Interface**: User-friendly HTML and CSS front-end powered by Flask.
+- **Error Handling**: The application will handle invalid characters and display appropriate messages.
